@@ -1,0 +1,23 @@
+<Putovanje>
+	<Email>marica.sokolic99@gmail.com</Email>
+	<Starost>21</Starost>
+	<VlastitiPrijevoz>Da</VlastitiPrijevoz>
+	<Trajanje>7</Trajanje>
+	<DatumOdlaska>2020-05-31</DatumOdlaska>
+	<Drustvo>s prijateljima</Drustvo>
+	<Zivotinja>Ne</Zivotinja>
+	<Smjestaj>kuća</Smjestaj>
+	<Regije>
+		<Regija>Slavonija</Regija>
+		<Regija>Središnja Hrvatska</Regija>
+		<Regija>Lika - Karlovac</Regija>
+		<Regija>Dalmacija - Zadar</Regija>
+	</Regije>
+	<Interesi>
+		<Interes>sport</Interes>
+		<Interes>zabava</Interes>
+		<Interes>priroda</Interes>
+		<Interes>odmor</Interes>
+	</Interesi>
+	<Cijena>2500</Cijena>
+</Putovanje>
