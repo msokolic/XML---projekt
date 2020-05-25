@@ -4,7 +4,9 @@ Projekt iz kolegija "XML programiranje" - forma namijenjena turističkim agencij
 POKRETANJE:
 
 1.) instalirati XAMPP i startati Apache server (https://www.apachefriends.org/xampp-files/7.4.4/xampp-windows-x64-7.4.4-1-VC15-installer.exe)
+
 2.) u C:\xampp\htdocs kopirati file putovanje.php i priložene slike
+
 3.) otvoriti u browseru http://localhost/putovanje.php
 
 
