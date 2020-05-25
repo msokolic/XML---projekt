@@ -13,4 +13,4 @@ POKRETANJE:
 SVRHA:
 
 Napravljena je forma za turističke agencije u Hrvatskoj. Korisnik bi ispunjavanjem forme i njenim slanjem dobio povratni odgovor na e-mail koji je naveo. E-mail šalje turisitčka agencija koja koristi formu, a ponude za putovanje unutar Hrvatske šalje na temelju toga što je korisnik ispunio (starost, mogućnost vlastitog prijevoza ili ne, trajanje putovanja, datum polaska, s kim putuje, ima li kućnog ljubimca, gdje želi odsjesti, u koju regiju Hrvatske bi želio putovati, koji su njegovi interesi i koliko želi izdvojiti). 
-Turistička agencija povratne informacije prima u XML formatu koji je ispunjen na temelju korisnikovih odgovora. XML je zapisan pomoću php-a, a sama forma je realizirana pomoću Bootstrap-a.
+Turistička agencija povratne informacije prima u XML formatu koji je ispunjen na temelju korisnikovih odgovora. XML je zapisan pomoću php-a, a sama forma je realizirana pomoću Bootstrap-a. Svaki XML u imenu ima datum i vrijeme kada je ispunjen pa na temelju toga agencija može odgovarati i izrađivati ponude onim redoslijedom kako su poslani (primjer XML-a: ).
