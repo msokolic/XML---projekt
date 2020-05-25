@@ -1,0 +1,24 @@
+<Putovanje>
+	<Email>primjer@email.com</Email>
+	<Starost>30</Starost>
+	<VlastitiPrijevoz>Da</VlastitiPrijevoz>
+	<Trajanje>7</Trajanje>
+	<DatumOdlaska>2020-07-15</DatumOdlaska>
+	<Drustvo>s obitelji</Drustvo>
+	<Zivotinja>Ne</Zivotinja>
+	<Smjestaj>apartman</Smjestaj>
+	<Regije>
+		<Regija>Istra</Regija>
+		<Regija>Kvarner</Regija>
+		<Regija>Dalmacija - Zadar</Regija>
+		<Regija>Dalmacija - Šibenik</Regija>
+		<Regija>Dalmacija - Split</Regija>
+	</Regije>
+	<Interesi>
+		<Interes>sport</Interes>
+		<Interes>zabava</Interes>
+		<Interes>priroda</Interes>
+		<Interes>odmor</Interes>
+	</Interesi>
+	<Cijena>7000</Cijena>
+</Putovanje>
